@@ -1,6 +1,6 @@
 # GumGum - JavaScript Engineering Test
 
-We are very thankful that you decided to apply for our job openning. In this first test, we are going over some small JavaScript challenges. We encourage you to use ES6, ES7 or beyond, but it is not necessary. These questions are mostly focused on manipulating data, and handling asychronous tasks. There is only one constraint, you are not allowed to use **Libraries** or **Frameworks** in this test. Feel free to ask us questions, should you have any.
+We are very thankful that you decided to apply for our job opening. In this first test, we are going over some small JavaScript challenges. We encourage you to use ES6, ES7 or beyond, but it is not necessary. These questions are mostly focused on manipulating data, and handling asychronous tasks. There is only one constraint, you are not allowed to use **Libraries** or **Frameworks** in this test. Feel free to ask us questions, should you have any.
 
 ### Instructions
 

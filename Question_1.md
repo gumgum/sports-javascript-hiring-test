@@ -2,7 +2,7 @@
 
 Given the following arrays of post:
 
-```
+```javascript
 const posts = [
     {
         id: '1',
@@ -14,7 +14,7 @@ const posts = [
         ]
     },
     {
-        Id: '2',
+        id: '2',
         userId: '65',
         text: '...',
         images: [
@@ -40,11 +40,11 @@ const posts = [
 ]
 ```
 
-Write a function that takes the array of posts, such as the one above, and gives us the following output. Which is an array of all images inside all post.
+Write a function that takes the array above and gives us the following output, which is an array of all images in the posts listed above.
 
 Output:
 
-```
+```javascript
 [
     'http://via.placeholder.com/310x10',
     'http://via.placeholder.com/250x170',

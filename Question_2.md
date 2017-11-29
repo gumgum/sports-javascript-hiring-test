@@ -1,11 +1,13 @@
 # Question 2
 
-Given the following endpoint:
+The following endpoint:
 ```
-https://jsonplaceholder.typicode.com/users/:userId
+https://jsonplaceholder.typicode.com/users/<INSERT_ID_HERE>
 ```
-That returns some information about a particular user:
-```
+
+Returns some information about a particular user:
+
+```javascript
 {
   "id": 1,
   "name": "Leanne Graham",
@@ -18,15 +20,15 @@ That returns some information about a particular user:
 }
 ```
 
-We would like to write a function that takes a list of userIds, and returns their names.
+Write a function that takes a list of user Ids and returns their names.
 
-```
+```javascript
 const usersIdList = [1, 2, 3];
 ```
 
 Example:
 
-```
+```javascript
 const output = getUserNamesByIds([1, 2]);
 console.log(output); // ['Leanne Graham', 'Ervin Howell']
 ```
