@@ -8,6 +8,8 @@ https://jsonplaceholder.typicode.com/users/<INSERT_ID_HERE>
 Returns some information about a particular user:
 
 ```javascript
+// GET https://jsonplaceholder.typicode.com/users/1
+
 {
   "id": 1,
   "name": "Leanne Graham",
