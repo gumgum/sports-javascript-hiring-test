@@ -22,7 +22,7 @@ Returns some information about a particular user:
 }
 ```
 
-Write a function that takes a list of user Ids and returns eventually their names.
+Write a function that takes a list of user Ids and returns a promise/callback with their names.
 
 ```javascript
 const usersIdList = [1, 2, 3];
