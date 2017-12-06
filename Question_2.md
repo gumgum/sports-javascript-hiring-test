@@ -22,7 +22,7 @@ Returns some information about a particular user:
 }
 ```
 
-Write a function that takes a list of user Ids and returns their names.
+Write a function that takes a list of user Ids and returns eventually their names.
 
 ```javascript
 const usersIdList = [1, 2, 3];
@@ -31,7 +31,7 @@ const usersIdList = [1, 2, 3];
 Example:
 
 ```javascript
-const output = getUserNamesByIds([1, 2]);
+const output = await getUserNamesByIds([1, 2]);
 console.log(output); // ['Leanne Graham', 'Ervin Howell']
 ```
 
