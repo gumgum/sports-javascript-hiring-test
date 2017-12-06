@@ -29,5 +29,6 @@ We are very thankful that you decided to apply for our job opening. In this firs
         |-- answer.js
         |-- answer.test.js
     ```
+    Note: You are allowed to use frameworks to write tests (chai, mocha, etc.)
 
-3. To submit your answer, you can simply send us a `.zip` of all your answers, or a dropbox link.
+3. To submit your answers, you can simply send us a `.zip` file using dropbox / google drive. Make sure to give us the right permissions, and enough time to access the files.
